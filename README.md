@@ -16,6 +16,9 @@ This data allows the model to predict the probability of a customer clicking on 
 ## Implementation
 The logistic regression model is implemented using appropriate libraries and programming languages (e.g., Python's scikit-learn). The dataset is preprocessed, including handling missing values, feature scaling, and encoding categorical variables (like 'Country'). The model is trained on a subset of the data and then tested for its predictive accuracy.
 
+## Evaluation
+The model's performance is evaluated using various metrics such as accuracy, precision, recall, and F1 score. The goal is to assess the model's ability to correctly predict customer clicks and its overall reliability in making these predictions.
+
 ## Notes
 The dataset used in this project is either a dummy dataset created for practice purposes or contains anonymized data to ensure privacy and confidentiality.
 
